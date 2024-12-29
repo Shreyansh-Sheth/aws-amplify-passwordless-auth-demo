@@ -1,3 +1,5 @@
+# Basic Demo | Snippet Of AWS Amplify Auth with passwordless
+
 ## To run this project
 
 1.Clone Repo
